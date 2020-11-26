@@ -2,16 +2,17 @@
 ======
 
 ##Available options:
+|Parameter|What it does
+|:-----:|----------|
+|-v|Will print all output|
 
--v           Will print all output
+|-i <input_file>|
 
--i           <input_file>
+|-o           |<output_file>|
 
--o           <output_file>
+|--cname      |Test cname registers TBD|
 
---cname      Test cname registers TBD
+|--mx         |Test mx registers  TBD|
 
---mx         Test mx registers  TBD
-
---all        Test all register types TBD
+|--all        |Test all register types TBD|
 
