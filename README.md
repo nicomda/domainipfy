@@ -1,5 +1,6 @@
-##Little Python Script to get all IP's from a Domain list.
-#Available options:
+#Little Python Script to get all IP's from a Domain list.
+======
+##Available options:
   -v           Will print all output
   -i           <input_file>
   -o           <output_file>
