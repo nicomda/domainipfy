@@ -1,4 +1,4 @@
-#!./bin/python
+#!/bin/python
 import dns
 import dns.resolver
 import sys
